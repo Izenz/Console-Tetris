@@ -1,0 +1,4 @@
+﻿  Tetris.cpp
+C:\Users\Izen\Desktop\Repositories\Console Tetris\Tetris\Tetris\Tetris.cpp(243,64): warning C4244: 'return': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\Izen\Desktop\Repositories\Console Tetris\Tetris\Tetris\Tetris.cpp(249): warning C4715: 'Rotate': no todas las rutas de acceso de control devuelven un valor
+  Tetris.vcxproj -> C:\Users\Izen\Desktop\Repositories\Console Tetris\Tetris\Debug\Tetris.exe
